@@ -2,7 +2,7 @@
 Console.Write("Entre com Altura de Queda (em metros):");
 
 Double n = Convert.ToDouble(Console.ReadLine());
-Console.ToDouble g = 9,80655
+Console.ToDouble g = 9.80655
 Double t= Math.Sqrt = ((2 * h) / g);
 Double v= Math.Sqrt = (" 2 * h * g ");
 
